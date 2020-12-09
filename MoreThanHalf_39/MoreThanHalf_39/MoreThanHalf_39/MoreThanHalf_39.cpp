@@ -38,7 +38,10 @@ int Partition(int *array, int lo, int hi)
 	return j;
 }
 
-int main(int argc, char * argv)
+
+
+
+int main1(int argc, char * argv)
 {
 	int array[] = { 5, 5, 5, 5, 9, 0, 3, 2 };
 	

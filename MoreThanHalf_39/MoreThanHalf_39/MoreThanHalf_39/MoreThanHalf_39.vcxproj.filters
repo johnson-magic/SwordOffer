@@ -21,5 +21,8 @@
     <ClCompile Include="MoreThanHalf_39.cpp">
       <Filter>资源文件\src</Filter>
     </ClCompile>
+    <ClCompile Include="MoreThanHalf_39_solution2.cpp">
+      <Filter>资源文件\src</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
