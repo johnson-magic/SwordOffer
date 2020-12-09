@@ -26,7 +26,7 @@ int Partition(int *array, int lo, int hi)
 	return j;
 }
 
-int main()
+int main1()
 {
 	int array[] = { 8, 3, 2, 4, 5, 1, 7 };
 	int k = 3;
